@@ -1,3 +1,3 @@
-#Open a new terminal emulator at current location
+# Open a new terminal emulator at current location
 
 		:terminal
